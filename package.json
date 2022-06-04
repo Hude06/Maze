@@ -1,0 +1,12 @@
+{
+  "name": "maze-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Game.js",
+  "scripts": {
+    "dev": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "author": "Jude <judeallanhill@icloud.com> (https://hude.ga/)",
+  "license": "ISC"
+}
